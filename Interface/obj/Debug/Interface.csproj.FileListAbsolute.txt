@@ -1,0 +1,62 @@
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\Interface.exe.config
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\Interface.exe
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\Interface.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\Control.dll
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\Models.dll
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\DataAccess.dll
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\Control.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\Models.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\DataAccess.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.CustomersUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.Main.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.exe
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\bin\Debug\DataAccess.dll.config
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.UnityUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.StockUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.DistributorsUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.TelUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.LoadingForm.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.ConfigurationUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.UsersUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.DataBaseUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.ProductUnityUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.StatisticsUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.SalesUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.PricesUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.SalesInfoUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.PurchasesInfoUC.resources
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.PurchasesUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\Interface.exe.config
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\Interface.exe
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\Interface.pdb
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\Control.dll
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\DataAccess.dll
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\Models.dll
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\Control.pdb
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\DataAccess.pdb
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\DataAccess.dll.config
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\bin\Debug\Models.pdb
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.PurchasesInfoUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.SalesInfoUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.PurchasesUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.SalesUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.ProductUnityUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.PricesUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.DistributorsUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.LoadingForm.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.StockUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.TelUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.UnityUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.CustomersUC.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.Main.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.exe
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Interface\obj\Debug\Interface.pdb

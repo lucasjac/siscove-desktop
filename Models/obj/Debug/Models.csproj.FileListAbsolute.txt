@@ -1,0 +1,11 @@
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Models\bin\Debug\Models.dll
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Models\bin\Debug\Models.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Models\obj\Debug\Models.dll
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Models\obj\Debug\Models.pdb
+C:\Users\Lucas MEJ\Desktop\Proyectos\Visual Studio\SISCOVE\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Models\bin\Debug\Models.dll
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Models\bin\Debug\Models.pdb
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Models\obj\Debug\Models.dll
+C:\Users\lucas\Desktop\Programación\Visual Studio\SISCOVE\Models\obj\Debug\Models.pdb
